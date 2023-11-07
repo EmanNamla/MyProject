@@ -1,2 +1,2 @@
 # MyProject
-Is The Test Project
+Is a Test Project
